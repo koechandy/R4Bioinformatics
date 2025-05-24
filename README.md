@@ -1,2 +1,2 @@
 # R-for-Bioinformatics
-slides and test materials for R training meant to introduce one to R as well as write packages taught by Dr. Groth Detlef at the University of Potsdam
+This repository contains slides and test materials for the R training course, designed to introduce learners to R programming and guide them through the process of writing R packages. The materials were developed and taught by Dr. Groth Detlef at the University of Potsdam. They cover essential R concepts, package development, and provide hands-on exercises to strengthen your skills in both basic R programming and advanced package creation.
